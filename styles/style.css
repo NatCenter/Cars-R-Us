@@ -1,0 +1,29 @@
+div{
+
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dashed dodgerblue;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+}
+#orderSumbitBtn{
+
+    margin: 0 2rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(0, 0, 0);
+}
+h1{
+
+    margin: 0 2rem;
+    text-shadow:0.25rem 0.25rem 0.5rem #8a85d3;
+    
+}
+.CustomerOrder{
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dashed dodgerblue;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.25rem 0.25rem 0.5rem rgb(143, 143, 143);
+}
+
